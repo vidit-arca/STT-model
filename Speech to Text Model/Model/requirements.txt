@@ -1,9 +1,9 @@
-streamlit==1.42.2
-nltk==3.9.1
-transformers==4.49.0
-torch==2.6.0
-pyaudio==0.2.14
-SpeechRecognition==3.14.1
-numpy==1.24.4
+streamlit
+nltk
+transformers
+torch
+pyaudiopyaudio==0.2.14
+SpeechRecognition
+numpy
 
 
