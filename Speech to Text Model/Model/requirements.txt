@@ -2,7 +2,7 @@ streamlit
 nltk
 transformers
 torch
-pyaudiopyaudio==0.2.14
+pyaudio==0.2.14
 SpeechRecognition
 numpy
 
